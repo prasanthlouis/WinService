@@ -1,0 +1,9 @@
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\bin\Debug\WinService.exe.config
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\bin\Debug\WinService.exe
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\bin\Debug\WinService.pdb
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\obj\Debug\WinService.csprojResolveAssemblyReference.cache
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\obj\Debug\WinService.ProjectInstaller.resources
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\obj\Debug\WinService.TestService.resources
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\obj\Debug\WinService.csproj.GenerateResource.Cache
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\obj\Debug\WinService.exe
+c:\users\apiadmin\documents\visual studio 2015\Projects\WinService\WinService\obj\Debug\WinService.pdb
