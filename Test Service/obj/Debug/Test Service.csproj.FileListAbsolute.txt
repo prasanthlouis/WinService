@@ -1,0 +1,7 @@
+C:\Users\apiadmin\documents\visual studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe.config
+C:\Users\apiadmin\documents\visual studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe
+C:\Users\apiadmin\documents\visual studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.pdb
+C:\Users\apiadmin\documents\visual studio 2015\Projects\WinService\Test Service\obj\Debug\Test_Service.ProjectInstaller.resources
+C:\Users\apiadmin\documents\visual studio 2015\Projects\WinService\Test Service\obj\Debug\Test Service.csproj.GenerateResource.Cache
+C:\Users\apiadmin\documents\visual studio 2015\Projects\WinService\Test Service\obj\Debug\Test Service.exe
+C:\Users\apiadmin\documents\visual studio 2015\Projects\WinService\Test Service\obj\Debug\Test Service.pdb

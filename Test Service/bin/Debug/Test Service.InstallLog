@@ -1,0 +1,268 @@
+﻿Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe
+Installing service Prasanth's Service...
+Creating EventLog source Prasanth's Service in log Application...
+Rolling back assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe
+Restoring event log to previous state for source Prasanth's Service.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+Committing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\Test Service.exe
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Creating EventLog source Prasanth's Service in log Application...
+Rolling back assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Restoring event log to previous state for source Prasanth's Service.
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+Committing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+Committing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Attempt to stop service Prasanth's Service.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+Committing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Attempt to stop service Prasanth's Service.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+Committing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Attempt to stop service Prasanth's Service.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+Committing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Attempt to stop service Prasanth's Service.
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Warning: The source Prasanth's Service is not registered on the local machine.
+Service Prasanth's Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+An exception occurred in the OnAfterInstall event handler of Test_Service.ProjectInstaller.
+System.ArgumentException: Invalid value  for parameter name.
+Rolling back assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Restoring event log to previous state for source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+An exception occurred in the OnAfterInstall event handler of Test_Service.ProjectInstaller.
+System.ArgumentException: Invalid value  for parameter name.
+Rolling back assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Restoring event log to previous state for source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Warning: The source Prasanth's Service is not registered on the local machine.
+Service Prasanth's Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+An exception occurred in the OnAfterInstall event handler of Test_Service.ProjectInstaller.
+System.ArgumentException: Invalid value  for parameter name.
+Rolling back assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Restoring event log to previous state for source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Warning: The source Prasanth's Service is not registered on the local machine.
+Service Prasanth's Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Installing service Prasanth's Service...
+Service Prasanth's Service has been successfully installed.
+Creating EventLog source Prasanth's Service in log Application...
+Committing assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Uninstalling assembly 'C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.InstallLog
+   assemblypath = C:\Users\apiadmin\Documents\Visual Studio 2015\Projects\WinService\Test Service\bin\Debug\test service.exe
+Removing EventLog source Prasanth's Service.
+Service Prasanth's Service is being removed from the system...
+Service Prasanth's Service was successfully removed from the system.
+Attempt to stop service Prasanth's Service.
